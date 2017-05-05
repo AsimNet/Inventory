@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="action_settings">Settings</string>
+    <string name="available_in_stock">Available in stock:</string>
+    <string name="sold">Sold:</string>
+    <string name="title_activity_details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="order_more">Order more</string>
+    <string name="save">Save</string>
+    <string name="product_name">Product name</string>
+    <string name="suppliers_number">Supplier\'s number i.e 05xxxxxxxx</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="err_bad_uri">"Insertion is not supported for "</string>
+    <string name="delete_dialog_msg">Are you sure you want to delete the product</string>
+    <string name="keep_editing">Lets finish this</string>
+    <string name="editor_delete_pet_failed">There was a problem deleting  product</string>
+    <string name="editor_delete_pet_successful">Deleted successfully</string>
+    <string name="unsaved_changes_dialog_msg">You have unsave information are you sure you want to go back?</string>
+    <string name="discard">Discard and leave</string>
+    <string name="err_fill_all_fields">PLEASE FILL ALL FIELDS!</string>
+    <string name="try_again">PLEASE TRY AGAIN</string>
+    <string name="updated_success">UPDATED SUCCESSFULLY</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="delete_all_products">DELETE ALL PRODUCTS</string>
+    <string name="no_records_found_text">Its a bit lonely here, please add a product \nClick the + button to start </string>
+    <string name="item_out_of_stock">Item out of stock</string>
+
+</resources>
