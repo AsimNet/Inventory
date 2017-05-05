@@ -143,4 +143,11 @@ public class MainActivity extends AppCompatActivity implements
         Log.v("CatalogActivity", rowsDeleted + " rows deleted from products database");
     }
 
+    @Override
+    public void onRestart()
+    {
+        super.onRestart();
+        finish();
+        startActivity(getIntent());
+    }
 }

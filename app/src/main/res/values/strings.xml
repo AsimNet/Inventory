@@ -25,5 +25,6 @@
     <string name="delete_all_products">DELETE ALL PRODUCTS</string>
     <string name="no_records_found_text">Its a bit lonely here, please add a product \nClick the + button to start </string>
     <string name="item_out_of_stock">Item out of stock</string>
+    <string name="click_to_select_photo">Click To select photo</string>
 
 </resources>
